@@ -1,7 +1,7 @@
 [project]
 name = "customerchurnanalysismodel"
 version = "1.0.0"
-description = "Add your description here"
+description = "Customer Churn Analysis ML Prediction Model"
 readme = "README.md"
 authors = [
     { name = "deveshdubey18", email = "314devesh11scic@gmail.com" }
